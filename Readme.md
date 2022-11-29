@@ -1,15 +1,16 @@
-Archlinux Theme for SDDM
+Cachyos Theme for SDDM
 ------------------------
 SDDM is a Login Manager for Linux which can be themed by qml. This is a port of existing kdm themes (package archlinux-themes-kdm) to SDDM.
+Rebranded to CachyOS.
 
 The Theme is available through AUR: 
-* archlinux-themes-sddm
-* https://aur.archlinux.org/packages/archlinux-themes-sddm/
+* cachyos-themes-sddm
+* https://aur.cachyos.org/packages/cachyos-themes-sddm/
 
-![archlinux-simplyblack](https://raw.githubusercontent.com/Guidobelix/archlinux-themes-sddm/master/archlinux-simplyblack/screenshot.png "archlinux-simplyblack") ![archlinux-soft-grey](https://raw.githubusercontent.com/Guidobelix/archlinux-themes-sddm/master/archlinux-soft-grey/screenshot.png "archlinux-soft-grey")
+![cachyos-simplyblack](https://raw.githubusercontent.com/StarterX4/cachyos-themes-sddm/master/cachyos-simplyblack/screenshot.png "cachyos-simplyblack") ![cachyos-softgrey](https://raw.githubusercontent.com/StarterX4/cachyos-themes-sddm/master/cachyos-softgrey/screenshot.png "cachyos-soft-grey")
 
 Manual Installation
 -------------------
-* copy the two folders (archlinux-simplyblack and archlinux-soft-grey) to /usr/share/apps/sddm/themes/
-* change CurrentTheme to archlinux-simplyblack or archlinux-soft-grey in /etc/sddm.conf
+* copy the two folders (cachyos-simplyblack and cachyos-softgrey) to /usr/share/apps/sddm/themes/
+* change CurrentTheme to cachyos-simplyblack or cachyos-softgrey in /etc/sddm.conf
 * Have fun!

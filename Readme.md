@@ -5,7 +5,7 @@ Rebranded to CachyOS.
 
 The Theme is available through AUR: 
 * cachyos-themes-sddm
-* https://aur.cachyos.org/packages/cachyos-themes-sddm/
+* https://aur.archlinux.org/packages/cachyos-themes-sddm/
 
 ![cachyos-simplyblack](https://raw.githubusercontent.com/StarterX4/cachyos-themes-sddm/main/cachyos-simplyblack/screenshot.png "cachyos-simplyblack") ![cachyos-softgrey](https://raw.githubusercontent.com/StarterX4/cachyos-themes-sddm/main/cachyos-softgrey/screenshot.png "cachyos-soft-grey")
 

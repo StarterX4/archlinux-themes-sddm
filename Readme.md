@@ -3,7 +3,10 @@ Cachyos Theme for SDDM
 SDDM is a Login Manager for Linux which can be themed by qml. This is a port of existing kdm themes (package archlinux-themes-kdm) to SDDM.
 Rebranded to CachyOS.
 
-The Theme is available through AUR: 
+The Theme is available through official CachyOS repo:
+`# pacman -S cachyos-themes-sddm`
+
+As well as through AUR: 
 * cachyos-themes-sddm
 * https://aur.archlinux.org/packages/cachyos-themes-sddm/
 
